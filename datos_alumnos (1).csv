@@ -1,0 +1,101 @@
+Apellido,Nombre,DNI,Materia Escolar,Nota Primer Trimestre,Nota Segundo Trimestre,Nota Tercer Trimestre,Faltas a Clases
+Sánchez,Luis,10071779,Arte,9,7,2,13
+Romero,Laura,10044350,Química,10,10,1,3
+Pérez,Diego,10035688,Educación Física,9,1,3,4
+Martínez,Carlos,10096180,Educación Física,9,2,6,8
+Rodríguez,Sofia,10049832,Filosofía,3,1,7,7
+Romero,Valentina,10015008,Música,5,1,5,0
+Sánchez,Ana,10073266,Física,6,8,9,1
+Pérez,Diego,10068854,Química,10,10,8,7
+Fernández,Sofia,10080248,Matemática,2,4,7,9
+López,Carlos,10055197,Música,10,8,4,9
+García,Ana,10089649,Geografía,4,6,8,2
+González,Luis,10091577,Historia,6,9,1,0
+Martínez,Carlos,10014985,Ciencias Naturales,6,5,9,8
+Gómez,Pedro,10038134,Filosofía,10,9,7,7
+Pérez,Juan,10048292,Educación Física,8,10,5,3
+González,Ana,10001274,Historia,5,8,1,10
+Fernández,María,10047463,Lengua y Literatura,2,6,1,10
+Pérez,Diego,10096768,Química,7,2,3,13
+Gómez,Juan,10094442,Educación Física,1,7,5,4
+Fernández,Laura,10034778,Filosofía,3,8,7,13
+López,Diego,10000428,Arte,10,7,2,15
+Sánchez,Sofia,10051424,Ciencias Naturales,1,4,3,3
+García,Juan,10006067,Sociología,8,5,4,5
+Sánchez,Ana,10000068,Música,7,9,6,1
+Martínez,Juan,10001610,Filosofía,2,8,6,11
+Fernández,Pedro,10068032,Ciencias Naturales,10,6,7,1
+Martínez,Ana,10013942,Arte,1,3,4,3
+Fernández,María,10074977,Educación Física,4,7,4,7
+Sánchez,Ana,10009649,Ciencias Naturales,2,5,2,7
+Romero,Pedro,10032010,Geografía,7,8,3,15
+Gómez,Diego,10048656,Informática,9,5,2,15
+Rodríguez,Sofia,10029784,Música,5,6,7,4
+Fernández,Juan,10043352,Física,3,10,2,2
+González,Luis,10038966,Arte,5,2,2,1
+Romero,Luis,10005432,Informática,6,9,5,15
+Sánchez,Juan,10088498,Educación Física,9,9,5,4
+Romero,María,10069525,Biología,6,4,4,3
+Pérez,Valentina,10045630,Arte,1,3,2,5
+Martínez,Valentina,10008353,Física,4,2,5,3
+Martínez,Valentina,10030393,Historia,9,4,1,10
+Sánchez,Sofia,10069006,Lengua y Literatura,2,7,6,5
+López,María,10098441,Lengua y Literatura,7,5,5,9
+García,Sofia,10065441,Matemática,5,7,8,0
+López,Ana,10099153,Sociología,5,3,10,14
+Pérez,Valentina,10054965,Química,5,4,9,8
+Martínez,Luis,10096482,Historia,9,6,3,13
+Romero,Sofia,10029195,Geografía,7,5,6,3
+Martínez,Pedro,10039808,Geografía,8,10,7,1
+Martínez,Pedro,10032355,Geografía,4,9,4,10
+Pérez,Juan,10045792,Inglés,6,2,4,10
+Rodríguez,Sofia,10052723,Química,5,7,5,13
+González,Sofia,10080109,Biología,10,2,2,0
+González,Sofia,10028883,Ciencias Naturales,5,5,3,14
+García,Laura,10009727,Matemática,10,9,6,3
+Romero,Diego,10022837,Historia,6,2,5,5
+López,Luis,10015026,Matemática,8,9,10,7
+Martínez,Luis,10038118,Matemática,2,1,9,11
+Martínez,María,10028117,Química,2,10,6,15
+Pérez,María,10030201,Informática,1,10,1,9
+Pérez,Carlos,10011643,Química,9,2,1,15
+García,Sofia,10013406,Filosofía,3,1,7,13
+Fernández,María,10035472,Sociología,4,8,9,2
+López,Diego,10088458,Ciencias Naturales,3,4,1,9
+Fernández,Sofia,10028856,Biología,2,8,4,8
+López,Valentina,10025732,Ciencias Naturales,6,5,8,5
+Rodríguez,Luis,10048077,Filosofía,4,8,6,4
+Martínez,Sofia,10075197,Geografía,1,3,8,2
+Fernández,Diego,10016171,Inglés,2,5,7,11
+Romero,Valentina,10026316,Inglés,8,10,10,11
+Martínez,Diego,10054749,Química,1,2,9,1
+González,Valentina,10089551,Química,2,6,2,12
+López,Valentina,10021311,Inglés,6,4,4,8
+Fernández,Diego,10076530,Biología,10,4,5,9
+Gómez,Sofia,10006374,Filosofía,8,6,1,13
+Fernández,Laura,10033764,Música,2,8,8,2
+Fernández,Carlos,10007744,Física,1,10,4,14
+García,Sofia,10032670,Música,6,4,9,1
+Sánchez,Valentina,10015755,Inglés,7,3,1,8
+Romero,María,10092803,Arte,1,7,6,9
+Gómez,Sofia,10050349,Ciencias Naturales,3,2,10,12
+Gómez,Diego,10064815,Filosofía,1,2,1,8
+Martínez,Carlos,10023580,Música,7,3,2,10
+Fernández,Pedro,10041892,Química,6,9,9,8
+Rodríguez,Luis,10065850,Biología,7,10,4,2
+García,Valentina,10013625,Ciencias Naturales,3,2,10,10
+Rodríguez,Valentina,10053382,Química,9,2,4,2
+Sánchez,María,10026775,Biología,3,1,9,6
+Romero,Laura,10051312,Historia,10,9,5,7
+Romero,Valentina,10040716,Sociología,6,3,1,10
+González,Sofia,10073992,Matemática,9,10,1,1
+Martínez,Luis,10024133,Geografía,4,1,7,2
+Romero,Laura,10094735,Filosofía,3,6,10,9
+López,Valentina,10058224,Biología,7,9,7,13
+Pérez,Sofia,10093666,Sociología,8,8,1,5
+Gómez,Juan,10068475,Historia,4,6,5,13
+Romero,María,10062821,Historia,7,7,8,0
+Pérez,Sofia,10015798,Biología,1,5,4,3
+Sánchez,Pedro,10093767,Biología,3,9,10,5
+Fernández,Laura,10083339,Arte,7,10,9,13
+Sánchez,Valentina,10055710,Ciencias Naturales,1,6,2,3
